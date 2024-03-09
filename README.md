@@ -2,6 +2,9 @@
 
 This is a simple **"Hello world"** done with **Java** programming language.
 
+## Note
+First you must install java compiler based on your operationg system (Linux , Windows , Mac)
+
 ## Source code
 
 This is the source code of the program:
